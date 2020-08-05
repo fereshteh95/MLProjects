@@ -1,11 +1,13 @@
 news.csv
 *.csv
+Image-Segmentation/dataset/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.jpg
+../.idea/
 # C extensions
 *.so
 
