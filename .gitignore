@@ -1,6 +1,7 @@
 news.csv
 *.csv
 Image-Segmentation/dataset/
+Butterfly Classification/butterflies/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
